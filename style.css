@@ -358,6 +358,7 @@ footer {
     }
     .left ul {
         gap: 1.5rem;
+        font-size: 12px;
     }
     .left ul li  {
         opacity: 0.8;
@@ -369,6 +370,7 @@ footer {
     .right ul {
         gap: 1.5rem;
         margin-right: 40px;
+        font-size: 12px;
     }
     .right ul li  {
         opacity: 0.8;
