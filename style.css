@@ -355,7 +355,7 @@ footer {
         /* justify-content: center; */
     }
     .left {
-        margin: 0 auto;
+        /* margin: 0 auto; */
         margin-left: 40px;
     }
     .left ul {
