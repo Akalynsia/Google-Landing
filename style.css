@@ -356,7 +356,7 @@ footer {
         /* justify-content: center; */
     }
     .left {
-        margin-left: -10px;
+        margin-right: 20px;
     }
     .left ul {
         margin: 12px auto;
