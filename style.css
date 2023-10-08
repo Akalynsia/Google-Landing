@@ -352,11 +352,8 @@ footer {
     .footer-nav {
         display: flex;
         flex-wrap: wrap;
+        flex-direction: column;
         /* justify-content: center; */
-    }
-    .left {
-        margin-right: auto;
-        margin-left: 40px;
     }
     .left ul {
         margin: 12px auto;
