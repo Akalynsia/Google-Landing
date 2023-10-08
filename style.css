@@ -274,7 +274,7 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 350px;
+        width: 325px;
         height: 500px;
     }
     /* Search Bar */
@@ -337,7 +337,7 @@ footer {
     }
     /* Footer */
     footer {
-        width: 500px;
+        width: 350px;
         margin: 0 auto;
         display: flex;
         flex-direction: column;
