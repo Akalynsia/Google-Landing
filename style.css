@@ -360,7 +360,6 @@ footer {
         width: 100%;
     }
     .left ul {
-        border: solid red 1px;
         display: flex;
         flex-wrap: nowrap;
         justify-content: flex-start;
