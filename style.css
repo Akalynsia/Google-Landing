@@ -352,12 +352,14 @@ footer {
     .footer-nav {
         display: flex;
         flex-wrap: wrap;
+        /* justify-content: center; */
     }
     .left {
         margin: 0 auto;
     }
     .left ul {
         margin: 12px auto;
+        margin-left: -40px;
         gap: 1.5rem;
         font-size: 12px;
     }
