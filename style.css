@@ -357,6 +357,7 @@ footer {
         margin: 0 auto;
     }
     .left ul {
+        margin: 12px auto;
         gap: 1.5rem;
         font-size: 12px;
     }
