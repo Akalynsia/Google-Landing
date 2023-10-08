@@ -355,6 +355,9 @@ footer {
         flex-direction: column;
         /* justify-content: center; */
     }
+    .left {
+        margin-left: -10px;
+    }
     .left ul {
         margin: 12px auto;
         gap: 1.5rem;
