@@ -356,10 +356,10 @@ footer {
         /* justify-content: center; */
     }
     .left {
-        margin-right: 20px;
+        margin: 0 auto;
     }
     .left ul {
-        margin: 12px auto;
+        margin-right: 80px;
         gap: 1.5rem;
         font-size: 12px;
     }
