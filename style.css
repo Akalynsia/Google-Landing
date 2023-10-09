@@ -360,8 +360,12 @@ footer {
         margin-top: 10px;
     }
     .left ul {
-        margin: 0 auto;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
         font-size: 12px;
+        gap: 12%;
+        margin-left: 10px;
     }
     .left ul li  {
         opacity: 0.8;
